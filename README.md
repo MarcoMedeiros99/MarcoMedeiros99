@@ -1,4 +1,7 @@
-<h2 align="left">👾 Olá, eu sou o Marco Medeiros! 👋<br><br>Estou cursando Análise e Desenvolvimento de Sistemas e sou um desenvolvedor de software com foco total em Java.<br>Estou atualmente aprofundando meus conhecimentos no ecossistema Java para construir aplicações back-end robustas, escaláveis e eficientes.</h2>
+<h2 align="left">Profissional em transição de carreira dedicado ao desenvolvimento de software, com foco consolidado no ecossistema Java. Cursando Análise e Desenvolvimento de Sistemas, venho aprofundando conhecimentos técnicos na construção de APIs REST, programação orientada a objetos (POO) conexão e gerenciamento de bancos de dados relacionais com SQL.
+Possuo uma trajetória profissional pautada pela disciplina e respeito à hierarquia, compreendendo profundamente a importância dos processos corporativos e do alinhamento estratégico. Minha bagagem inclui o desenvolvimento de uma comunicação assertiva e uma alta capacidade de entrega sob pressão, mantendo o foco na resolução de problemas e na organização técnica mesmo em cenários desafiadores e dinâmicos.
+Atualmente, busco minha primeira oportunidade como Desenvolvedor Estagiário. Aprimorando maturidade profissional e evolução técnica, meu objetivo é contribuir para a entrega de soluções eficientes em ambientes de desenvolvimento e escalar meu aprendizado prático.
+</h2>
 
 ###
 
